@@ -41,6 +41,15 @@ pip install -r requirements.txt
 python3 -m publicleechgroup
 ```
 
+### Deploy 
+
+Deploy on Heroku
+<p align="left">
+  <a href="https://heroku.com/deploy?template=https://github.com/SeriesZone101/Leech-SZ">
+     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
+  </a>
+</p>
+
 ### Variable Explanations
 
 ##### Mandatory Variables
